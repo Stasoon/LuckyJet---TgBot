@@ -1,0 +1,134 @@
+# English translations for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-08-04 13:25+0300\n"
+"PO-Revision-Date: 2023-08-04 01:49+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: src/handlers/user/kb.py:13
+msgid "❓ Проверить ❓"
+msgstr "❓ Check ❓"
+
+#: src/handlers/user/kb.py:46
+msgid "▶ ПОЛУЧИТЬ СИГНАЛ ▶"
+msgstr "▶ RECEIVE A SIGNAL ▶"
+
+#: src/handlers/user/kb.py:51
+msgid "СЛЕДУЮЩИЙ РАУНД ➡"
+msgstr "NEXT ROUND ➡"
+
+#: src/handlers/user/messages.py:37
+msgid ""
+"ID: {onewin_id} \n"
+"🚀 ВЫВОДИ НА: <b>{coefficient}</b>"
+msgstr ""
+"ID: {onewin_id} \n"
+"🚀 Сoeff: <b>{coefficient}</b>"
+
+#: src/handlers/user/messages.py:42
+msgid "🔐 Введите кодовое слово:"
+msgstr "🔐 Enter the code word:"
+
+#: src/handlers/user/messages.py:46
+msgid ""
+"❗<b>Вы ввели неправильное кодовое слово!</b> \n"
+"Попробуйте ещё раз:"
+msgstr ""
+"❗You entered the wrong code word! \n"
+"Please, try again:"
+
+#: src/handlers/user/messages.py:50
+msgid ""
+"Замечательно! \n"
+"Теперь введите 🆔 от вашего аккаунта 1win: "
+msgstr ""
+"Wonderful! \n"
+"Now enter the 🆔 from your 1win account: "
+
+#: src/handlers/user/messages.py:54
+msgid ""
+"❗<b>ID не может содержать букв и символов, только цифры!</b> \n"
+"Попробуйте ещё раз:"
+msgstr ""
+"❗<b>ID cannot contain letters and symbols, only numbers!</b> \n"
+"Try again:"
+
+#: src/handlers/user/messages.py:58
+msgid ""
+"❗<b>ID должно иметь длину в 8 цифр</b> \n"
+"Попробуйте снова:"
+msgstr ""
+"❗<b>ID must be 8 digits long</b> \n"
+"Try again:"
+
+#: src/handlers/user/messages.py:62
+msgid ""
+"Перед тем как, начать ⤵️\n"
+"\n"
+"Минимальная сумма депозита в игре с ботом <b>500-1000₽</b> либо "
+"<b>5-15$</b> \n"
+"\n"
+"Если вдруг бот выдает не верные коэффициенты, скорее всего ваш аккаунт "
+"<b>не активирован</b>. \n"
+"Нужно сделать депозит еще раз, чтобы ваш аккаунт активировался❗"
+msgstr ""
+"Before you start ⤵️\n"
+"\n"
+"The minimum deposit amount in the "
+"game with a bot is <b>500-1000₽</b> "
+"or <b>5-15$</b> \n"
+"\n"
+"If suddenly the bot gives incorrect "
+"odds, most likely your account is "
+"<b>not activated</b>.You need to make "
+"another deposit for your account to "
+"be activated❗"
+
+#~ msgid "🔲 Пожалуйста, пользуйтесь клавиатурой"
+#~ msgstr ""
+
+#~ msgid "Когда будете готовы, нажмите на кнопку: "
+#~ msgstr "When you're ready, click on the button: "
+
+#~ msgid "before_start_photo"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Перед тем как, начать ⤵️\n"
+#~ "\n"
+#~ "Минимальная сумма депозита в игре с "
+#~ "ботом <b>500-1000₽</b> либо <b>5-15$</b> \n"
+#~ "\n"
+#~ "Если вдруг бот выдает не верные "
+#~ "коэффициенты, скорее всего ваш аккаунт "
+#~ "<b>не активирован</b>. \n"
+#~ "Нужно сделать депозит еще раз, чтобы ваш аккаунт активировался❗"
+#~ msgstr ""
+#~ "Before you start ⤵️\n"
+#~ "\n"
+#~ "The minimum deposit amount in the "
+#~ "game with a bot is <b>500-1000₽</b> "
+#~ "or <b>5-15$</b> \n"
+#~ "\n"
+#~ "If suddenly the bot gives incorrect "
+#~ "odds, most likely your account is "
+#~ "<b>not activated</b>.You need to make "
+#~ "another deposit for your account to "
+#~ "be activated❗"
+
+#~ msgid "Чтобы начать пользоваться ботом, подпишитесь на следующие каналы:"
+#~ msgstr "To start using the bot, subscribe to the following channels:"
+
